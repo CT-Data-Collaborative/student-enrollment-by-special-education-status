@@ -1,7 +1,10 @@
 Student-Enrollment-by-Special-Education-Status
 
 [![Build Status](https://travis-ci.org/CT-Data-Collaborative/student-enrollment-by-special-education-status.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/student-enrollment-by-special-education-status)
-A short description of the project.
+
+Student Enrollment reports the number of enrolled students per year, per subgroup.
+
+Data Source: <http://edsight.ct.gov/>
 
 ## License MIT
 
